@@ -5,10 +5,9 @@ A battery powered 6.25 Decade auto ranging ohmmeter, made for the Microprocessor
 * 16 bit signed ADC, with 3 Stage Programmable Gain Amplifier.
 * Six Ranges, with Current Steps of 12.50 mA, 1.736 mA, 310.9 uA, 48.04 uA, 8.012 uA, 129.4 nA.
 * Maximum measurable value of 2.5MΩ.
-* BNC connector and coaxial cable for Noise Rejection.
-* Operates down to 3.3V.
+* BNC connector and coaxial cable for Noise Rejection
 * Zeroing Capability.
-* Basic input protection and filtering.
+* Input protection and noise filtering.
 * 5 hz refresh rate.
 * Powered by an 18650 3.7V Li ion Battery, with a battery life of over 75 hours (Assuming a capacity of 3 Ah).
 
