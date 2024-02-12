@@ -4,7 +4,7 @@ A battery powered auto-ranging ohmmeter (Measurement range: 1Ω – 2MΩ), mad
 ![Finished Ohmmeter PCB](https://user-images.githubusercontent.com/122324428/211429192-8cd7d599-cb19-4cc0-996d-7d6baa555dbd.png)
 *Figure 1. Measuring an Accurate 5kOhm resistor.*
 
-The device works by injecting a known current across the resistor under test and measuring the voltage across it. The currents used to test the resistors are selectable and found in the bulleted list under Specifications→Six Ranges. These currents are generated using a adjustable constant current source referenced to a high-precision voltage source and switched using low-leakage-current solid-state relays.
+The device works by injecting a known current across the resistor under test and measuring the voltage across it. The currents used to test the resistors are selectable and found in the bulleted list under Specifications→Six Ranges. These currents are generated using a adjustable constant current source referenced to a high-precision voltage source and switched using low-leakage-current analog switch ICs.
 
 **Specifications:**
 * 16-bit signed ADC, with 3 Stage programmable gain amplifier, operating in differential sampling mode for increased accuracy and improved noise rejection.
