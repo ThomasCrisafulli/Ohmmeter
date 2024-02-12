@@ -11,6 +11,6 @@ A battery powered auto ranging ohmmeter (Measurement range: 1Ω – 2MΩ), mad
 * 5 Hz screen refresh rate.
 * Powered by an 18650 3.7V Li-Ion Battery, with a battery life of over 75 hours (Assuming a capacity of 3 Ah).
 
-*Figure 1. Measuring a Precise 5kOhm resistor.*
+*Figure 1. Measuring an Accurate 5kOhm resistor.*
 
 ![Ohmmeter1](https://user-images.githubusercontent.com/122324428/211429192-8cd7d599-cb19-4cc0-996d-7d6baa555dbd.png)
