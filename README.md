@@ -9,9 +9,9 @@ A battery powered auto-ranging ohmmeter (Measurement range: 1Ω – 2MΩ), mad
 
 The device works by injecting a known current across the resistor under test and measuring the voltage across it. The currents used to test the resistors are selectable and found in the bulleted list under Specifications→Six Ranges. These currents are generated using a adjustable constant current source referenced to a high-precision voltage source and switched using low-leakage-current analog switch ICs.
 
-**Specifications:**
+**Project Features:**
 * 16-bit signed ADC, with 3 Stage programmable gain amplifier, operating in differential sampling mode for increased accuracy and improved noise rejection.
-* Six Ranges, with current steps of 12.50 mA, 1.736 mA, 310.9 µA, 48.04 µA, 8.012 µA, and 1.294 µA.
+* Six Ranges, with resistance scales of 130.0Ω, 1.000kΩ, 6.100kΩ, 40.00kΩ, 235.0kΩ, and 2.000MΩ.
 * Maximum measurable value of 2.5MΩ.
 * BNC connector and coaxial cable for noise rejection
 * Zeroing capability.
