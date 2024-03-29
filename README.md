@@ -1,6 +1,9 @@
 # Ohmmeter
 A battery powered auto-ranging ohmmeter (Measurement range: 1Ω – 2MΩ), made for the Microprocessor Systems Design class in one quarter. The overall design specifications of the assignment were to measure up to 1MΩ and achieve an accuracy of 0.05% or better among the middle ranges of 100Ω to 10kΩ.
 
+**Update (3/28/2024):**
+ The project files and schematics for Revision B were added. Please see the [commit extended description](https://github.com/ThomasCrisafulli/Ohmmeter/commit/056860dc55eb1752448fc8f3667a36f3e23dcd25) for details.
+
 ![Finished Ohmmeter PCB](https://user-images.githubusercontent.com/122324428/211429192-8cd7d599-cb19-4cc0-996d-7d6baa555dbd.png)
 *Figure 1. Measuring an Accurate 5kOhm resistor.*
 
@@ -8,7 +11,7 @@ The device works by injecting a known current across the resistor under test and
 
 **Specifications:**
 * 16-bit signed ADC, with 3 Stage programmable gain amplifier, operating in differential sampling mode for increased accuracy and improved noise rejection.
-* Six Ranges, with current steps of 12.50 mA, 1.736 mA, 310.9 µA, 48.04 µA, 8.012 µA, and 129.4 nA.
+* Six Ranges, with current steps of 12.50 mA, 1.736 mA, 310.9 µA, 48.04 µA, 8.012 µA, and 1.294 µA.
 * Maximum measurable value of 2.5MΩ.
 * BNC connector and coaxial cable for noise rejection
 * Zeroing capability.
