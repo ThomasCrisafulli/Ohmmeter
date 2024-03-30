@@ -19,3 +19,7 @@ The device works by injecting a known current across the resistor under test and
 * 5 Hz screen refresh rate.
 * Powered by an 18650 3.7V Li-Ion Battery, with a battery life of over 75 hours (assuming a capacity of 3 Ah).
 
+**Notice:**
+
+The software for the project still needs to be cleaned up and refactored a bit before it will be posted here.
+
